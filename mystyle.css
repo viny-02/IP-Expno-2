@@ -1,0 +1,17 @@
+.sample {
+  color: #ff3399;
+  font-family: verdana;
+  font-size: 40px;
+  border: 5px double;
+  padding: 10px;
+}
+
+#p{
+  color: #cc0000;
+  margin-left: 20px;
+  font-family:Times New Roman;
+  text-align:center;
+  font-size: 35px;
+  background-color: lightblue;
+  padding:20px;
+}
